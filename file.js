@@ -19,5 +19,6 @@ if(isnotchanged){
 }
 
 if(E_O_BAR_DO_PISCA == 'ta la'){
-    console.log('mas bah')
+    console.log('mas bah');
+    bão né
 } 
